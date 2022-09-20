@@ -1,0 +1,9 @@
+# Ciclo de vida del Software
+1. Define "Ciclo de vida del Software"
+  - Proceso de desarrollo de un software
+2. Nombra las fases principales en que consiste el modelo de cascada cuando hablamos de desarrollo de software
+  - Analisis - determinacion y definicion clara de las necesidades del cliente y especificacion de los requisitos a cumplir el software desarrollado
+  - Diseño - descomposicion y organizacion del sistema en elementos componentes desarrollables por separado
+  - Codificacion - escritura del codigo fuente de cada componente
+  - Pruebas - conseguir que el programa falle y descubrir defectos
+  - Mantenimiento - rehacer parte del trabajo anterior
