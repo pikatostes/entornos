@@ -2,7 +2,7 @@
 
 #### 1. Instala el editor sublime text. Saca una captura de pantalla una vez instalado.
 
-![image-20221020083546736](/home/alejandro/snap/typora/76/.config/Typora/typora-user-images/image-20221020083546736.png)
+![image-20221020083546736](C:\Users\Alejandro\Desktop\DAW\en-ds\entornosDesarrolloIntegrado\Captura desde 2022-10-20 08-35-00.png)
 
 #### 2. Personaliza Sublime text instalando los complementos más importantes. 
 
@@ -23,4 +23,9 @@
 
 #### 4. Instala el editor Visual Studio Code. Saca una captura de pantalla una vez instalado y funcionando.
 
-![image-20221020085850945](/home/alejandro/snap/typora/76/.config/Typora/typora-user-images/image-20221020085850945.png)
+![code](C:\Users\Alejandro\Desktop\DAW\en-ds\entornosDesarrolloIntegrado\code.png)
+
+#### 6. ¿Qué paquetes básicos debemos instalar en Ubuntu para desarrollar en Java?
+
+- Debemos instalar un JDK (Java Development Kit), ya sea el oficial de Oracle u Open JDK.
+
